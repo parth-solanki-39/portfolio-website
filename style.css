@@ -213,3 +213,9 @@ section{
     background: white;
     color: black;
 }
+
+.project-card{
+    text-decoration:none;
+    color:white;
+    display:block;
+}
