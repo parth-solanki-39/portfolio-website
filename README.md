@@ -16,7 +16,7 @@ This is my personal portfolio website created using HTML, CSS, and JavaScript.
 - JavaScript
 
 ## Live Demo
-https://your-netlify-link.netlify.app
+https://dashing-cuchufli-fe9122.netlify.app/
 
 ## Author
 Parth Solanki
